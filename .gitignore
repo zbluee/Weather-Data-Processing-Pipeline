@@ -3,10 +3,6 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# Data files
-*.csv
-!weather_data.csv  # Include the original source file
-
 # Jupyter Notebook
 .ipynb_checkpoints/
 
