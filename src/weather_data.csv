@@ -1,0 +1,101 @@
+date,city,temperature_celsius,humidity_percent,wind_speed_kph,weather_condition
+2023-01-01,New York,5.0,60.0,10.0,Sunny
+01/02/2023,New York,,65.0,12.0,Cloudy
+03-01-2023,New York,7.0,,8.0,Rainy
+,London,8.0,70.0,15.0,Unknown
+2023-01-02,London,6.0,75.0,20.0,Snowy
+01/03/2023,London,,80.0,18.0,Cloudy
+2023-01-01,Tokyo,10.0,50.0,5.0,Sunny
+01/02/2023,Tokyo,12.0,55.0,6.0,Cloudy
+03-01-2023,Tokyo,,60.0,7.0,Unknown
+01-25-2023,New York,,51.0,20.3,Sunny
+2023-01-12,New York,,,10.2,Unknown
+14-01-2023,New York,15.7,,1.1,Unknown
+01-07-2023,New York,,,17.9,Snowy
+06/01/2023,London,,,11.1,Unknown
+01/15/2023,London,,56.0,,RAINY
+,London,,65.0,15.1,RAINY
+2023-01-12,Tokyo,,61.0,,RAINY
+14.01.2023,London,,,,NULL
+25/01/2023,London,,,7.4,Unknown
+01/19/2023,Tokyo,8.9,,,
+01-25-2023,Tokyo,6.2,,27.1,Rainy
+17/01/2023,Tokyo,19.3,43.0,,RAINY
+14.01.2023,New York,16.1,45.0,15.6,
+2023-01-05,London,,60.0,,Rainy
+07/01/2023,London,,,,NULL
+,Tokyo,-1.2,38.0,,
+,Tokyo,,,29.7,Sunny
+2023-01-26,New York,0.5,37.0,26.3,unknown
+01/16/2023,New York,,,,Rainy
+,London,,,,Sunny
+,New York,,89.0,27.8,Cloudy
+,Tokyo,17.5,79.0,1.0,Unknown
+01/26/2023,Tokyo,-2.7,,,RAINY
+18-01-2023,Tokyo,,55.0,2.2,Cloudy
+25.01.2023,New York,12.9,,5.7,Sunny
+07.01.2023,London,,72.0,8.1,Sunny
+17/01/2023,New York,,61.0,25.1,RAINY
+,New York,,89.0,23.3,Rainy
+01/28/2023,New York,18.4,,,Unknown
+2023-01-17,Tokyo,,,17.6,Unknown
+27.01.2023,Tokyo,8.1,,19.1,unknown
+2023-01-29,Tokyo,10.2,,,Cloudy
+,New York,15.1,35.0,,NULL
+01-21-2023,Tokyo,,44.0,3.5,RAINY
+,London,,69.0,11.4,RAINY
+01/15/2023,New York,,,,Unknown
+,Tokyo,,,,Snowy
+26.01.2023,Tokyo,,47.0,,unknown
+,London,,,13.1,Unknown
+21.01.2023,Tokyo,3.4,49.0,3.5,Snowy
+01/10/2023,London,,46.0,,RAINY
+17.01.2023,London,15.1,,,Unknown
+01/08/2023,New York,2.9,,,Unknown
+12.01.2023,New York,,,2.3,Sunny
+21/01/2023,Tokyo,,54.0,,NULL
+22/01/2023,New York,13.4,,,Snowy
+2023-01-29,New York,3.4,,,Snowy
+01-01-2023,London,,78.0,8.1,Unknown
+,New York,,31.0,,Snowy
+21.01.2023,Tokyo,,88.0,,Cloudy
+18.01.2023,London,,,26.5,unknown
+02-01-2023,Tokyo,13.5,,,
+,New York,,,18.4,Cloudy
+30.01.2023,New York,,,,
+01-27-2023,London,18.1,59.0,1.0,Snowy
+2023-01-08,London,14.8,,,
+29.01.2023,New York,9.3,,26.1,Cloudy
+,Tokyo,,42.0,,Cloudy
+04-01-2023,Tokyo,,76.0,6.4,Snowy
+01/23/2023,London,,,,
+01-15-2023,New York,12.2,,16.5,RAINY
+01-24-2023,Tokyo,7.5,,,unknown
+01-05-2023,London,,,,RAINY
+01-16-2023,Tokyo,5.8,,,Rainy
+,London,,,,unknown
+20-01-2023,New York,,,,unknown
+27.01.2023,New York,,,17.4,Rainy
+20.01.2023,New York,-4.1,,,Unknown
+24.01.2023,London,,,27.4,
+14.01.2023,Tokyo,,30.0,12.7,Cloudy
+16/01/2023,Tokyo,-3.7,60.0,,Rainy
+26.01.2023,London,-1.7,74.0,,
+24/01/2023,New York,4.8,76.0,,Rainy
+2023-01-05,New York,,,,Unknown
+01/10/2023,New York,,88.0,0.8,Cloudy
+,New York,18.3,32.0,28.4,NULL
+2023-01-05,Tokyo,-1.7,,23.0,Cloudy
+27-01-2023,New York,0.8,,14.2,unknown
+,London,,35.0,21.5,unknown
+06-01-2023,London,,85.0,9.3,Rainy
+20/01/2023,Tokyo,,,20.7,Unknown
+,Tokyo,8.7,,,NULL
+25/01/2023,London,,,29.9,Cloudy
+,London,,76.0,8.8,Unknown
+01-06-2023,London,5.3,,1.5,unknown
+01-01-2023,London,,,,Rainy
+09-01-2023,London,,,,Rainy
+2023-01-11,Tokyo,,,,Sunny
+15/01/2023,New York,,41.0,24.3,
+01/12/2023,London,13.7,41.0,,Unknown
