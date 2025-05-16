@@ -47,14 +47,12 @@ cd Weather-Data-Processing-Pipeline
 pip install pandas matplotlib numpy jupyter
 ```
 
-3. Place the input data file (`weather_data.csv`) in the src project directory.
-
 ## Running the Pipeline
 
 You can run the pipeline using the Python script:
 
 ```bash
-python jupyter notebook weather_data_processing_pipeline.ipynb
+jupyter notebook weather_data_processing_pipeline.ipynb
 ```
 
 ## Approach & Challenges
